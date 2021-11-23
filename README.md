@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Certificates
+- Javascript:
+  - [Basic Javascript by CODEPOLITAN](https://www.codepolitan.com/c/KYJS6QB)
+
 <!--
 **wu-syen/wu-syen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
