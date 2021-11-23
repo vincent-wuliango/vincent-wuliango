@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ## Certificates
+- HTML/CSS:
+  - [Basic HTML/CSS by CODEPOLITAN](https://www.codepolitan.com/c/UDKQV4Y)
 - Javascript:
   - [Basic Javascript by CODEPOLITAN](https://www.codepolitan.com/c/KYJS6QB)
 
