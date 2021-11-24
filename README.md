@@ -2,9 +2,9 @@
 
 ## Certificates
 - HTML/CSS:
-  - [Basic HTML/CSS by CODEPOLITAN](https://www.codepolitan.com/c/UDKQV4Y)
+  - [HTML/CSS Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/UDKQV4Y)
 - Javascript:
-  - [Basic Javascript by CODEPOLITAN](https://www.codepolitan.com/c/KYJS6QB)
+  - [Javascript Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/KYJS6QB)
 
 <!--
 **wu-syen/wu-syen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
