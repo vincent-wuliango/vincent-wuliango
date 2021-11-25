@@ -5,6 +5,8 @@
   - [HTML/CSS Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/UDKQV4Y)
 - Javascript:
   - [Javascript Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/KYJS6QB)
+- Python:
+  - [Python Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/NEPTWZI)
 - Algorithm: 
   - [Algorithm and Programming Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/YTU3AHZ)
 - Git:
