@@ -5,6 +5,8 @@
   - [HTML/CSS Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/UDKQV4Y)
 - Javascript:
   - [Javascript Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/KYJS6QB)
+- Algorithm: 
+  - [Basic Algorithm and Programming](https://www.codepolitan.com/c/YTU3AHZ)
 
 <!--
 **wu-syen/wu-syen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
