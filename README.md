@@ -1,10 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-## Certificates
+### Certificates
 - HTML/CSS:
   - [HTML/CSS Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/UDKQV4Y)
 - Javascript:
   - [Javascript Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/KYJS6QB)
+- JQuery:
+  - [JQuery Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/RQF8C5P)
 - Python:
   - [Python Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/NEPTWZI)
 - Algorithm: 
