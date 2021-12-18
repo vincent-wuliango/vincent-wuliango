@@ -1,9 +1,9 @@
 ## Hi there <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="40px">, Welcome back to my Github Channel.
 
-#### I'm Syen or you can call me Vincent
-#### I still confusing to choose my programming career path for future so I decided to learn some fundamentals of programming languages that make me interested
-**How about being Backend Enginer/Developer ? interisting.**
-### ``Currently learn about Golang.``
+👨🏻‍💻 **I'm Syen or you can call me Vincent.**
+#### ⁉️ I still confusing to choose my programming career path for future so I decided to learn some fundamentals of programming languages that make me interested.
+🤔 **How about being Backend Enginer/Developer ? interisting.**
+### 💻 ``I'm currently learning Golang.``
 
 ### 📜 Certificates 
 - HTML/CSS:
