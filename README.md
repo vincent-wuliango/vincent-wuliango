@@ -3,7 +3,7 @@
 👨🏻‍💻 **I'm Syen or you can call me Vincent.**
 <!-- #### ⁉️ I'm still confusing to choose my programming career path for future so I decided to learn some fundamentals of programming languages that make me interested.
 🤔 **How about being Backend Enginer/Developer ? interisting.** -->
-💻 ``I'm currently learning Golang.``
+💻 ``I'm currently learning about GameDev.``
 
 ### 📜 Certificates 
 - HTML/CSS:
