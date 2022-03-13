@@ -19,6 +19,10 @@
 - Git:
   - [Git Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/Q5P0DWO)
 
+### Social Media
+- [Linkedin](https://www.linkedin.com/in/vincentwuliango/)
+- [Resume.io](https://resume.io/r/gZDtAQxBO)
+
 <!--
 **wu-syen/wu-syen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
