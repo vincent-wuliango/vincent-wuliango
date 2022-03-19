@@ -19,7 +19,7 @@
 - Git:
   - [Git Fundamentals by CODEPOLITAN](https://www.codepolitan.com/c/Q5P0DWO)
 
-### Social Media
+### 🌐 Social Media
 - [Linkedin](https://www.linkedin.com/in/vincentwuliango/)
 - [Resume.io](https://resume.io/r/gZDtAQxBO)
 - [OpenSea.io](https://opensea.io/Vincent-Wuliango)
