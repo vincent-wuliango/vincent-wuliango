@@ -1,9 +1,9 @@
-## Hi there <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="40px">, Welcome back to my Github Channel.
+## Hi there <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="40px">, Welcome Back to My Github Channel.
 
 👨🏻‍💻 **Nice to meet you, I'm Vincent.**
 <!-- #### ⁉️ I'm still confusing to choose my programming career path for future so I decided to learn some fundamentals of programming languages that make me interested.
 🤔 **How about being Backend Enginer/Developer ? interisting.** -->
-💻 ``Ready player zero.``
+💻 ``Zero to Hero.``
 
 ### 📜 Certificates 
 - HTML/CSS:
