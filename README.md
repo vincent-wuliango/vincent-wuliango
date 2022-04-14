@@ -22,7 +22,7 @@
 ### 🌐 Social Media
 - [Linkedin](https://www.linkedin.com/in/vincentwuliango/)
 - [Resume.io](https://resume.io/r/gZDtAQxBO)
-- [OpenSea.io](https://opensea.io/Vincent-Wuliango)
+- [OpenSea.io](https://opensea.io/elegeneous)
 
 <!--
 **wu-syen/wu-syen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
